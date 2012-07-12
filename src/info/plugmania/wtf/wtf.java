@@ -1,4 +1,4 @@
-package info.plugmania.PlugMania.wtf;
+package info.plugmania.wtf;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
