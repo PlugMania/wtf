@@ -1,0 +1,12 @@
+name: wtf
+main: info.plugmania.wtf.wtf
+version: 1.0.0
+
+commands:
+  wtf:
+    usage: /wtf
+    description: Root command
+permissions:
+    wtf.*:
+        description: Allows you to use all the commands
+        default: op
